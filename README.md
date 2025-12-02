@@ -68,9 +68,13 @@ Average Age: 37 years
 **Interpretation & Recommendations**
 
 ✔ Improve retention strategies in R&D and Sales
+
 ✔ Focus on mid-career employees aged 25–34
+
 ✔ Conduct role-specific satisfaction surveys
+
 ✔ Career development + mentoring programs for young workforce
+
 ✔ Analyze workload & compensation for highly skilled job roles
 
 **Purpose of the Dashboard**
@@ -93,6 +97,7 @@ Average Age: 37 years
 **Author**
 
 **Dev Dixit**
+
 HR Analytics | Data Visualization | Tableau Projects
 
 
